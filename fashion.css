@@ -1,0 +1,36 @@
+html{background-color: #a0e68f; 
+    background-image: url(https://www.pngplay.com/wp-content/uploads/11/Super-Mario-World-2-Yoshis-Island-Transparent-Clip-Art-Image.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: bottom;
+    }
+
+.universal {
+    font-family: Verdana;
+    color: #000000;
+    font-weight: bold;
+    border-style: dotted;
+    border-width: 0.15cm;
+    border-color: green;
+    margin-right: 30%;
+    margin-left: 30%;
+    text-align: center;
+    font-size: 100px;
+    margin-block: 12px;
+
+    
+}
+
+.pr {
+    font-family: Verdana;
+    color: #000000;
+    text-align: center;
+    text-align: justify;
+    font-size: 150%;
+    text-indent: 0.3cm;
+    
+}
+
+#img1 {
+    text-align: center;
+}
