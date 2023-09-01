@@ -3,6 +3,7 @@ html{background-color: #a0e68f;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position-y: bottom;
+    background-position-x: center;
     }
 
 .universal {
@@ -12,8 +13,6 @@ html{background-color: #a0e68f;
     border-style: dotted;
     border-width: 0.15cm;
     border-color: green;
-    margin-right: 30%;
-    margin-left: 30%;
     text-align: center;
     font-size: 100px;
     margin-block: 12px;
